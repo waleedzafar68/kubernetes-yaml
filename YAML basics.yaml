@@ -8,3 +8,5 @@ students:
 #Example Dictionary
 Key: value
 #Take care of leading and trailing spaces
+#List elements have the trailing hyphens
+#Either you can have hyphens or you do not

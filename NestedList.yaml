@@ -1,0 +1,36 @@
+#List of items categorized into fruits and vegetables and then by color
+ 
+items:
+  - banana
+  - orange
+  - strawberry
+  - broccoli
+  - cabbage
+  - grapes
+  - carrot
+  - tomato
+  - peppers
+  - watermelon
+  - lettuce
+fruit:
+  - yellow:
+    - banana
+  - green:
+    - grapes
+    - watermelon
+  - red:
+    - strawberry
+    - tomato
+  - orange:
+    - orange
+  - total: 6
+
+veg:
+  - green:
+    - cabbage
+    - broccoli
+    - lettuce
+  - red:
+    - peppers
+    - carrots
+  - total: 5
